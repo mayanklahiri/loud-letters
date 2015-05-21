@@ -1,0 +1,15 @@
+.font-list {
+}
+.controls textarea {
+  margin: 0;
+  height: 180px;
+}
+
+label {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.loud-letters {
+  padding: 10px;
+}
